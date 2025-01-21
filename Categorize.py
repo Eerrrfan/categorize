@@ -4,8 +4,9 @@ import os
 
 model = "llama3.2:1b"
 
-input_file = "C:/Users/ASUS-X515EP/Desktop/ollama/list-of-item.txt"
-output_file = "C:/Users/ASUS-X515EP/Desktop/ollama/categorized-list.txt"
+#you can add your file location
+input_file = "your location"
+output_file = "your location"
 
 
 # Check if input file exists
